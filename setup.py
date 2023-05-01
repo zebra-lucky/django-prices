@@ -31,6 +31,6 @@ setup(
     include_package_data=True,
     classifiers=CLASSIFIERS,
     install_requires=[
-        'Babel>=2.2', 'Django>=1.11', 'django-babel', 'prices>=0.5.7,<0.6a0'],
+        'Babel>=2.2', 'Django>=2.2', 'enmerkar', 'prices>=0.5.7,<0.6a0'],
     platforms=['any'],
     zip_safe=False)
